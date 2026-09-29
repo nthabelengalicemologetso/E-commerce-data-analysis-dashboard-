@@ -21,9 +21,7 @@ An interactive, multi-tab dashboard that analyzes e-commerce performance across 
 6. [KPIs Explained](#-kpis-explained)
 7. [Key Insights](#-key-insights)
 8. [Recommendations](#-recommendations)
-9. [How to Run Locally](#-how-to-run-locally)
-10. [Project Structure](#-project-structure)
-11. [Author](#-author)
+
 
 ---
 
