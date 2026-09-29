@@ -5,9 +5,10 @@ An interactive, multi-tab dashboard that analyzes e-commerce performance across 
 
 **Built with:** Python · Pandas · Plotly · Streamlit
 
-🔗 **[View Live Project](YOUR_LIVE_APP_LINK)**
+🔗 **[View Live Project](http://localhost:8501.)**
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png)<img width="1885" height="866" alt="Screenshot 2026-07-11 222740" src="https://github.com/user-attachments/assets/7a549e2b-6037-4262-ac4b-b533c2fbf582" />
+
 
 ---
 
